@@ -1,2 +1,2 @@
-# bounceOffAlgorithim
-A bounceOff Command With Homemade Collision
+# collisionAlgorithm
+Algorithm to detect collision between two objects
